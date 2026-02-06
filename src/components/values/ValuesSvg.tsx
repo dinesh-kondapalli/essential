@@ -1,0 +1,3924 @@
+export default function ValuesSvg(props: React.SVGProps<SVGSVGElement>) {
+  return (
+    <svg
+      {...props}
+      viewBox="0 0 804 120"
+      preserveAspectRatio="xMinYMin meet"
+      className="pointer-events-none absolute top-0 left-0 h-full w-full"
+      role="img"
+      aria-label="New thinking for a new era of computing"
+    >
+      <title>New thinking for a new era of computing</title>
+      <path
+        d="M6 21C7.68 21 9 19.68 9 18C9 16.32 7.68 15 6 15C4.32 15 3 16.32 3 18C3 19.68 4.32 21 6 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M30 21C31.68 21 33 19.68 33 18C33 16.32 31.68 15 30 15C28.32 15 27 16.32 27 18C27 19.68 28.32 21 30 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M42 21C43.68 21 45 19.68 45 18C45 16.32 43.68 15 42 15C40.32 15 39 16.32 39 18C39 19.68 40.32 21 42 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M48 21C49.68 21 51 19.68 51 18C51 16.32 49.68 15 48 15C46.32 15 45 16.32 45 18C45 19.68 46.32 21 48 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M54 21C55.68 21 57 19.68 57 18C57 16.32 55.68 15 54 15C52.32 15 51 16.32 51 18C51 19.68 52.32 21 54 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M60 21C61.68 21 63 19.68 63 18C63 16.32 61.68 15 60 15C58.32 15 57 16.32 57 18C57 19.68 58.32 21 60 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M66 21C67.68 21 69 19.68 69 18C69 16.32 67.68 15 66 15C64.32 15 63 16.32 63 18C63 19.68 64.32 21 66 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M78 21C79.68 21 81 19.68 81 18C81 16.32 79.68 15 78 15C76.32 15 75 16.32 75 18C75 19.68 76.32 21 78 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M102 21C103.68 21 105 19.68 105 18C105 16.32 103.68 15 102 15C100.32 15 99 16.32 99 18C99 19.68 100.32 21 102 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M126 21C127.68 21 129 19.68 129 18C129 16.32 127.68 15 126 15C124.32 15 123 16.32 123 18C123 19.68 124.32 21 126 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M132 21C133.68 21 135 19.68 135 18C135 16.32 133.68 15 132 15C130.32 15 129 16.32 129 18C129 19.68 130.32 21 132 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M138 21C139.68 21 141 19.68 141 18C141 16.32 139.68 15 138 15C136.32 15 135 16.32 135 18C135 19.68 136.32 21 138 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M144 21C145.68 21 147 19.68 147 18C147 16.32 145.68 15 144 15C142.32 15 141 16.32 141 18C141 19.68 142.32 21 144 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M150 21C151.68 21 153 19.68 153 18C153 16.32 151.68 15 150 15C148.32 15 147 16.32 147 18C147 19.68 148.32 21 150 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M162 21C163.68 21 165 19.68 165 18C165 16.32 163.68 15 162 15C160.32 15 159 16.32 159 18C159 19.68 160.32 21 162 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M186 21C187.68 21 189 19.68 189 18C189 16.32 187.68 15 186 15C184.32 15 183 16.32 183 18C183 19.68 184.32 21 186 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M198 21C199.68 21 201 19.68 201 18C201 16.32 199.68 15 198 15C196.32 15 195 16.32 195 18C195 19.68 196.32 21 198 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M204 21C205.68 21 207 19.68 207 18C207 16.32 205.68 15 204 15C202.32 15 201 16.32 201 18C201 19.68 202.32 21 204 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M210 21C211.68 21 213 19.68 213 18C213 16.32 211.68 15 210 15C208.32 15 207 16.32 207 18C207 19.68 208.32 21 210 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M222 21C223.68 21 225 19.68 225 18C225 16.32 223.68 15 222 15C220.32 15 219 16.32 219 18C219 19.68 220.32 21 222 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M246 21C247.68 21 249 19.68 249 18C249 16.32 247.68 15 246 15C244.32 15 243 16.32 243 18C243 19.68 244.32 21 246 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M258 21C259.68 21 261 19.68 261 18C261 16.32 259.68 15 258 15C256.32 15 255 16.32 255 18C255 19.68 256.32 21 258 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M282 21C283.68 21 285 19.68 285 18C285 16.32 283.68 15 282 15C280.32 15 279 16.32 279 18C279 19.68 280.32 21 282 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M294 21C295.68 21 297 19.68 297 18C297 16.32 295.68 15 294 15C292.32 15 291 16.32 291 18C291 19.68 292.32 21 294 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M300 21C301.68 21 303 19.68 303 18C303 16.32 301.68 15 300 15C298.32 15 297 16.32 297 18C297 19.68 298.32 21 300 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M306 21C307.68 21 309 19.68 309 18C309 16.32 307.68 15 306 15C304.32 15 303 16.32 303 18C303 19.68 304.32 21 306 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M318 21C319.68 21 321 19.68 321 18C321 16.32 319.68 15 318 15C316.32 15 315 16.32 315 18C315 19.68 316.32 21 318 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M342 21C343.68 21 345 19.68 345 18C345 16.32 343.68 15 342 15C340.32 15 339 16.32 339 18C339 19.68 340.32 21 342 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M360 21C361.68 21 363 19.68 363 18C363 16.32 361.68 15 360 15C358.32 15 357 16.32 357 18C357 19.68 358.32 21 360 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M366 21C367.68 21 369 19.68 369 18C369 16.32 367.68 15 366 15C364.32 15 363 16.32 363 18C363 19.68 364.32 21 366 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M372 21C373.68 21 375 19.68 375 18C375 16.32 373.68 15 372 15C370.32 15 369 16.32 369 18C369 19.68 370.32 21 372 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M378 21C379.68 21 381 19.68 381 18C381 16.32 379.68 15 378 15C376.32 15 375 16.32 375 18C375 19.68 376.32 21 378 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M402 21C403.68 21 405 19.68 405 18C405 16.32 403.68 15 402 15C400.32 15 399 16.32 399 18C399 19.68 400.32 21 402 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M408 21C409.68 21 411 19.68 411 18C411 16.32 409.68 15 408 15C406.32 15 405 16.32 405 18C405 19.68 406.32 21 408 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M414 21C415.68 21 417 19.68 417 18C417 16.32 415.68 15 414 15C412.32 15 411 16.32 411 18C411 19.68 412.32 21 414 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M420 21C421.68 21 423 19.68 423 18C423 16.32 421.68 15 420 15C418.32 15 417 16.32 417 18C417 19.68 418.32 21 420 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M426 21C427.68 21 429 19.68 429 18C429 16.32 427.68 15 426 15C424.32 15 423 16.32 423 18C423 19.68 424.32 21 426 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M444 21C445.68 21 447 19.68 447 18C447 16.32 445.68 15 444 15C442.32 15 441 16.32 441 18C441 19.68 442.32 21 444 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M450 21C451.68 21 453 19.68 453 18C453 16.32 451.68 15 450 15C448.32 15 447 16.32 447 18C447 19.68 448.32 21 450 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M456 21C457.68 21 459 19.68 459 18C459 16.32 457.68 15 456 15C454.32 15 453 16.32 453 18C453 19.68 454.32 21 456 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M474 21C475.68 21 477 19.68 477 18C477 16.32 475.68 15 474 15C472.32 15 471 16.32 471 18C471 19.68 472.32 21 474 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M480 21C481.68 21 483 19.68 483 18C483 16.32 481.68 15 480 15C478.32 15 477 16.32 477 18C477 19.68 478.32 21 480 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M486 21C487.68 21 489 19.68 489 18C489 16.32 487.68 15 486 15C484.32 15 483 16.32 483 18C483 19.68 484.32 21 486 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M492 21C493.68 21 495 19.68 495 18C495 16.32 493.68 15 492 15C490.32 15 489 16.32 489 18C489 19.68 490.32 21 492 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M534 21C535.68 21 537 19.68 537 18C537 16.32 535.68 15 534 15C532.32 15 531 16.32 531 18C531 19.68 532.32 21 534 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M570 21C571.68 21 573 19.68 573 18C573 16.32 571.68 15 570 15C568.32 15 567 16.32 567 18C567 19.68 568.32 21 570 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M594 21C595.68 21 597 19.68 597 18C597 16.32 595.68 15 594 15C592.32 15 591 16.32 591 18C591 19.68 592.32 21 594 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M606 21C607.68 21 609 19.68 609 18C609 16.32 607.68 15 606 15C604.32 15 603 16.32 603 18C603 19.68 604.32 21 606 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M612 21C613.68 21 615 19.68 615 18C615 16.32 613.68 15 612 15C610.32 15 609 16.32 609 18C609 19.68 610.32 21 612 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M618 21C619.68 21 621 19.68 621 18C621 16.32 619.68 15 618 15C616.32 15 615 16.32 615 18C615 19.68 616.32 21 618 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M624 21C625.68 21 627 19.68 627 18C627 16.32 625.68 15 624 15C622.32 15 621 16.32 621 18C621 19.68 622.32 21 624 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M630 21C631.68 21 633 19.68 633 18C633 16.32 631.68 15 630 15C628.32 15 627 16.32 627 18C627 19.68 628.32 21 630 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M642 21C643.68 21 645 19.68 645 18C645 16.32 643.68 15 642 15C640.32 15 639 16.32 639 18C639 19.68 640.32 21 642 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M666 21C667.68 21 669 19.68 669 18C669 16.32 667.68 15 666 15C664.32 15 663 16.32 663 18C663 19.68 664.32 21 666 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M690 21C691.68 21 693 19.68 693 18C693 16.32 691.68 15 690 15C688.32 15 687 16.32 687 18C687 19.68 688.32 21 690 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M696 21C697.68 21 699 19.68 699 18C699 16.32 697.68 15 696 15C694.32 15 693 16.32 693 18C693 19.68 694.32 21 696 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M702 21C703.68 21 705 19.68 705 18C705 16.32 703.68 15 702 15C700.32 15 699 16.32 699 18C699 19.68 700.32 21 702 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M708 21C709.68 21 711 19.68 711 18C711 16.32 709.68 15 708 15C706.32 15 705 16.32 705 18C705 19.68 706.32 21 708 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M714 21C715.68 21 717 19.68 717 18C717 16.32 715.68 15 714 15C712.32 15 711 16.32 711 18C711 19.68 712.32 21 714 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M726 21C727.68 21 729 19.68 729 18C729 16.32 727.68 15 726 15C724.32 15 723 16.32 723 18C723 19.68 724.32 21 726 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M732 21C733.68 21 735 19.68 735 18C735 16.32 733.68 15 732 15C730.32 15 729 16.32 729 18C729 19.68 730.32 21 732 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M738 21C739.68 21 741 19.68 741 18C741 16.32 739.68 15 738 15C736.32 15 735 16.32 735 18C735 19.68 736.32 21 738 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M744 21C745.68 21 747 19.68 747 18C747 16.32 745.68 15 744 15C742.32 15 741 16.32 741 18C741 19.68 742.32 21 744 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M774 21C775.68 21 777 19.68 777 18C777 16.32 775.68 15 774 15C772.32 15 771 16.32 771 18C771 19.68 772.32 21 774 21Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M6 30C7.68 30 9 28.68 9 27C9 25.32 7.68 24 6 24C4.32 24 3 25.32 3 27C3 28.68 4.32 30 6 30Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M12 30C13.68 30 15 28.68 15 27C15 25.32 13.68 24 12 24C10.32 24 9 25.32 9 27C9 28.68 10.32 30 12 30Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M30 30C31.68 30 33 28.68 33 27C33 25.32 31.68 24 30 24C28.32 24 27 25.32 27 27C27 28.68 28.32 30 30 30Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M42 30C43.68 30 45 28.68 45 27C45 25.32 43.68 24 42 24C40.32 24 39 25.32 39 27C39 28.68 40.32 30 42 30Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M78 30C79.68 30 81 28.68 81 27C81 25.32 79.68 24 78 24C76.32 24 75 25.32 75 27C75 28.68 76.32 30 78 30Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M102 30C103.68 30 105 28.68 105 27C105 25.32 103.68 24 102 24C100.32 24 99 25.32 99 27C99 28.68 100.32 30 102 30Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M138 30C139.68 30 141 28.68 141 27C141 25.32 139.68 24 138 24C136.32 24 135 25.32 135 27C135 28.68 136.32 30 138 30Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M162 30C163.68 30 165 28.68 165 27C165 25.32 163.68 24 162 24C160.32 24 159 25.32 159 27C159 28.68 160.32 30 162 30Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M186 30C187.68 30 189 28.68 189 27C189 25.32 187.68 24 186 24C184.32 24 183 25.32 183 27C183 28.68 184.32 30 186 30Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M204 30C205.68 30 207 28.68 207 27C207 25.32 205.68 24 204 24C202.32 24 201 25.32 201 27C201 28.68 202.32 30 204 30Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M222 30C223.68 30 225 28.68 225 27C225 25.32 223.68 24 222 24C220.32 24 219 25.32 219 27C219 28.68 220.32 30 222 30Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M228 30C229.68 30 231 28.68 231 27C231 25.32 229.68 24 228 24C226.32 24 225 25.32 225 27C225 28.68 226.32 30 228 30Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M246 30C247.68 30 249 28.68 249 27C249 25.32 247.68 24 246 24C244.32 24 243 25.32 243 27C243 28.68 244.32 30 246 30Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M258 30C259.68 30 261 28.68 261 27C261 25.32 259.68 24 258 24C256.32 24 255 25.32 255 27C255 28.68 256.32 30 258 30Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M276 30C277.68 30 279 28.68 279 27C279 25.32 277.68 24 276 24C274.32 24 273 25.32 273 27C273 28.68 274.32 30 276 30Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M300 30C301.68 30 303 28.68 303 27C303 25.32 301.68 24 300 24C298.32 24 297 25.32 297 27C297 28.68 298.32 30 300 30Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M318 30C319.68 30 321 28.68 321 27C321 25.32 319.68 24 318 24C316.32 24 315 25.32 315 27C315 28.68 316.32 30 318 30Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M324 30C325.68 30 327 28.68 327 27C327 25.32 325.68 24 324 24C322.32 24 321 25.32 321 27C321 28.68 322.32 30 324 30Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M342 30C343.68 30 345 28.68 345 27C345 25.32 343.68 24 342 24C340.32 24 339 25.32 339 27C339 28.68 340.32 30 342 30Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M354 30C355.68 30 357 28.68 357 27C357 25.32 355.68 24 354 24C352.32 24 351 25.32 351 27C351 28.68 352.32 30 354 30Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M402 30C403.68 30 405 28.68 405 27C405 25.32 403.68 24 402 24C400.32 24 399 25.32 399 27C399 28.68 400.32 30 402 30Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M438 30C439.68 30 441 28.68 441 27C441 25.32 439.68 24 438 24C436.32 24 435 25.32 435 27C435 28.68 436.32 30 438 30Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M462 30C463.68 30 465 28.68 465 27C465 25.32 463.68 24 462 24C460.32 24 459 25.32 459 27C459 28.68 460.32 30 462 30Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M474 30C475.68 30 477 28.68 477 27C477 25.32 475.68 24 474 24C472.32 24 471 25.32 471 27C471 28.68 472.32 30 474 30Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M498 30C499.68 30 501 28.68 501 27C501 25.32 499.68 24 498 24C496.32 24 495 25.32 495 27C495 28.68 496.32 30 498 30Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M528 30C529.68 30 531 28.68 531 27C531 25.32 529.68 24 528 24C526.32 24 525 25.32 525 27C525 28.68 526.32 30 528 30Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M540 30C541.68 30 543 28.68 543 27C543 25.32 541.68 24 540 24C538.32 24 537 25.32 537 27C537 28.68 538.32 30 540 30Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M570 30C571.68 30 573 28.68 573 27C573 25.32 571.68 24 570 24C568.32 24 567 25.32 567 27C567 28.68 568.32 30 570 30Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M576 30C577.68 30 579 28.68 579 27C579 25.32 577.68 24 576 24C574.32 24 573 25.32 573 27C573 28.68 574.32 30 576 30Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M594 30C595.68 30 597 28.68 597 27C597 25.32 595.68 24 594 24C592.32 24 591 25.32 591 27C591 28.68 592.32 30 594 30Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M606 30C607.68 30 609 28.68 609 27C609 25.32 607.68 24 606 24C604.32 24 603 25.32 603 27C603 28.68 604.32 30 606 30Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M642 30C643.68 30 645 28.68 645 27C645 25.32 643.68 24 642 24C640.32 24 639 25.32 639 27C639 28.68 640.32 30 642 30Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M666 30C667.68 30 669 28.68 669 27C669 25.32 667.68 24 666 24C664.32 24 663 25.32 663 27C663 28.68 664.32 30 666 30Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M690 30C691.68 30 693 28.68 693 27C693 25.32 691.68 24 690 24C688.32 24 687 25.32 687 27C687 28.68 688.32 30 690 30Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M726 30C727.68 30 729 28.68 729 27C729 25.32 727.68 24 726 24C724.32 24 723 25.32 723 27C723 28.68 724.32 30 726 30Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M750 30C751.68 30 753 28.68 753 27C753 25.32 751.68 24 750 24C748.32 24 747 25.32 747 27C747 28.68 748.32 30 750 30Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M768 30C769.68 30 771 28.68 771 27C771 25.32 769.68 24 768 24C766.32 24 765 25.32 765 27C765 28.68 766.32 30 768 30Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M780 30C781.68 30 783 28.68 783 27C783 25.32 781.68 24 780 24C778.32 24 777 25.32 777 27C777 28.68 778.32 30 780 30Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M6 39C7.68 39 9 37.68 9 36C9 34.32 7.68 33 6 33C4.32 33 3 34.32 3 36C3 37.68 4.32 39 6 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M18 39C19.68 39 21 37.68 21 36C21 34.32 19.68 33 18 33C16.32 33 15 34.32 15 36C15 37.68 16.32 39 18 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M30 39C31.68 39 33 37.68 33 36C33 34.32 31.68 33 30 33C28.32 33 27 34.32 27 36C27 37.68 28.32 39 30 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M42 39C43.68 39 45 37.68 45 36C45 34.32 43.68 33 42 33C40.32 33 39 34.32 39 36C39 37.68 40.32 39 42 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M48 39C49.68 39 51 37.68 51 36C51 34.32 49.68 33 48 33C46.32 33 45 34.32 45 36C45 37.68 46.32 39 48 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M54 39C55.68 39 57 37.68 57 36C57 34.32 55.68 33 54 33C52.32 33 51 34.32 51 36C51 37.68 52.32 39 54 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M60 39C61.68 39 63 37.68 63 36C63 34.32 61.68 33 60 33C58.32 33 57 34.32 57 36C57 37.68 58.32 39 60 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M78 39C79.68 39 81 37.68 81 36C81 34.32 79.68 33 78 33C76.32 33 75 34.32 75 36C75 37.68 76.32 39 78 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M90 39C91.68 39 93 37.68 93 36C93 34.32 91.68 33 90 33C88.32 33 87 34.32 87 36C87 37.68 88.32 39 90 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M102 39C103.68 39 105 37.68 105 36C105 34.32 103.68 33 102 33C100.32 33 99 34.32 99 36C99 37.68 100.32 39 102 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M138 39C139.68 39 141 37.68 141 36C141 34.32 139.68 33 138 33C136.32 33 135 34.32 135 36C135 37.68 136.32 39 138 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M162 39C163.68 39 165 37.68 165 36C165 34.32 163.68 33 162 33C160.32 33 159 34.32 159 36C159 37.68 160.32 39 162 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M168 39C169.68 39 171 37.68 171 36C171 34.32 169.68 33 168 33C166.32 33 165 34.32 165 36C165 37.68 166.32 39 168 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M174 39C175.68 39 177 37.68 177 36C177 34.32 175.68 33 174 33C172.32 33 171 34.32 171 36C171 37.68 172.32 39 174 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M180 39C181.68 39 183 37.68 183 36C183 34.32 181.68 33 180 33C178.32 33 177 34.32 177 36C177 37.68 178.32 39 180 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M186 39C187.68 39 189 37.68 189 36C189 34.32 187.68 33 186 33C184.32 33 183 34.32 183 36C183 37.68 184.32 39 186 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M204 39C205.68 39 207 37.68 207 36C207 34.32 205.68 33 204 33C202.32 33 201 34.32 201 36C201 37.68 202.32 39 204 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M222 39C223.68 39 225 37.68 225 36C225 34.32 223.68 33 222 33C220.32 33 219 34.32 219 36C219 37.68 220.32 39 222 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M234 39C235.68 39 237 37.68 237 36C237 34.32 235.68 33 234 33C232.32 33 231 34.32 231 36C231 37.68 232.32 39 234 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M246 39C247.68 39 249 37.68 249 36C249 34.32 247.68 33 246 33C244.32 33 243 34.32 243 36C243 37.68 244.32 39 246 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M258 39C259.68 39 261 37.68 261 36C261 34.32 259.68 33 258 33C256.32 33 255 34.32 255 36C255 37.68 256.32 39 258 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M264 39C265.68 39 267 37.68 267 36C267 34.32 265.68 33 264 33C262.32 33 261 34.32 261 36C261 37.68 262.32 39 264 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M270 39C271.68 39 273 37.68 273 36C273 34.32 271.68 33 270 33C268.32 33 267 34.32 267 36C267 37.68 268.32 39 270 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M300 39C301.68 39 303 37.68 303 36C303 34.32 301.68 33 300 33C298.32 33 297 34.32 297 36C297 37.68 298.32 39 300 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M318 39C319.68 39 321 37.68 321 36C321 34.32 319.68 33 318 33C316.32 33 315 34.32 315 36C315 37.68 316.32 39 318 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M330 39C331.68 39 333 37.68 333 36C333 34.32 331.68 33 330 33C328.32 33 327 34.32 327 36C327 37.68 328.32 39 330 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M342 39C343.68 39 345 37.68 345 36C345 34.32 343.68 33 342 33C340.32 33 339 34.32 339 36C339 37.68 340.32 39 342 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M354 39C355.68 39 357 37.68 357 36C357 34.32 355.68 33 354 33C352.32 33 351 34.32 351 36C351 37.68 352.32 39 354 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M366 39C367.68 39 369 37.68 369 36C369 34.32 367.68 33 366 33C364.32 33 363 34.32 363 36C363 37.68 364.32 39 366 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M372 39C373.68 39 375 37.68 375 36C375 34.32 373.68 33 372 33C370.32 33 369 34.32 369 36C369 37.68 370.32 39 372 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M378 39C379.68 39 381 37.68 381 36C381 34.32 379.68 33 378 33C376.32 33 375 34.32 375 36C375 37.68 376.32 39 378 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M402 39C403.68 39 405 37.68 405 36C405 34.32 403.68 33 402 33C400.32 33 399 34.32 399 36C399 37.68 400.32 39 402 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M408 39C409.68 39 411 37.68 411 36C411 34.32 409.68 33 408 33C406.32 33 405 34.32 405 36C405 37.68 406.32 39 408 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M414 39C415.68 39 417 37.68 417 36C417 34.32 415.68 33 414 33C412.32 33 411 34.32 411 36C411 37.68 412.32 39 414 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M420 39C421.68 39 423 37.68 423 36C423 34.32 421.68 33 420 33C418.32 33 417 34.32 417 36C417 37.68 418.32 39 420 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M438 39C439.68 39 441 37.68 441 36C441 34.32 439.68 33 438 33C436.32 33 435 34.32 435 36C435 37.68 436.32 39 438 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M462 39C463.68 39 465 37.68 465 36C465 34.32 463.68 33 462 33C460.32 33 459 34.32 459 36C459 37.68 460.32 39 462 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M474 39C475.68 39 477 37.68 477 36C477 34.32 475.68 33 474 33C472.32 33 471 34.32 471 36C471 37.68 472.32 39 474 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M480 39C481.68 39 483 37.68 483 36C483 34.32 481.68 33 480 33C478.32 33 477 34.32 477 36C477 37.68 478.32 39 480 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M486 39C487.68 39 489 37.68 489 36C489 34.32 487.68 33 486 33C484.32 33 483 34.32 483 36C483 37.68 484.32 39 486 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M492 39C493.68 39 495 37.68 495 36C495 34.32 493.68 33 492 33C490.32 33 489 34.32 489 36C489 37.68 490.32 39 492 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M522 39C523.68 39 525 37.68 525 36C525 34.32 523.68 33 522 33C520.32 33 519 34.32 519 36C519 37.68 520.32 39 522 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M546 39C547.68 39 549 37.68 549 36C549 34.32 547.68 33 546 33C544.32 33 543 34.32 543 36C543 37.68 544.32 39 546 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M570 39C571.68 39 573 37.68 573 36C573 34.32 571.68 33 570 33C568.32 33 567 34.32 567 36C567 37.68 568.32 39 570 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M582 39C583.68 39 585 37.68 585 36C585 34.32 583.68 33 582 33C580.32 33 579 34.32 579 36C579 37.68 580.32 39 582 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M594 39C595.68 39 597 37.68 597 36C597 34.32 595.68 33 594 33C592.32 33 591 34.32 591 36C591 37.68 592.32 39 594 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M606 39C607.68 39 609 37.68 609 36C609 34.32 607.68 33 606 33C604.32 33 603 34.32 603 36C603 37.68 604.32 39 606 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M612 39C613.68 39 615 37.68 615 36C615 34.32 613.68 33 612 33C610.32 33 609 34.32 609 36C609 37.68 610.32 39 612 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M618 39C619.68 39 621 37.68 621 36C621 34.32 619.68 33 618 33C616.32 33 615 34.32 615 36C615 37.68 616.32 39 618 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M624 39C625.68 39 627 37.68 627 36C627 34.32 625.68 33 624 33C622.32 33 621 34.32 621 36C621 37.68 622.32 39 624 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M642 39C643.68 39 645 37.68 645 36C645 34.32 643.68 33 642 33C640.32 33 639 34.32 639 36C639 37.68 640.32 39 642 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M654 39C655.68 39 657 37.68 657 36C657 34.32 655.68 33 654 33C652.32 33 651 34.32 651 36C651 37.68 652.32 39 654 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M666 39C667.68 39 669 37.68 669 36C669 34.32 667.68 33 666 33C664.32 33 663 34.32 663 36C663 37.68 664.32 39 666 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M690 39C691.68 39 693 37.68 693 36C693 34.32 691.68 33 690 33C688.32 33 687 34.32 687 36C687 37.68 688.32 39 690 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M696 39C697.68 39 699 37.68 699 36C699 34.32 697.68 33 696 33C694.32 33 693 34.32 693 36C693 37.68 694.32 39 696 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M702 39C703.68 39 705 37.68 705 36C705 34.32 703.68 33 702 33C700.32 33 699 34.32 699 36C699 37.68 700.32 39 702 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M708 39C709.68 39 711 37.68 711 36C711 34.32 709.68 33 708 33C706.32 33 705 34.32 705 36C705 37.68 706.32 39 708 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M726 39C727.68 39 729 37.68 729 36C729 34.32 727.68 33 726 33C724.32 33 723 34.32 723 36C723 37.68 724.32 39 726 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M732 39C733.68 39 735 37.68 735 36C735 34.32 733.68 33 732 33C730.32 33 729 34.32 729 36C729 37.68 730.32 39 732 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M738 39C739.68 39 741 37.68 741 36C741 34.32 739.68 33 738 33C736.32 33 735 34.32 735 36C735 37.68 736.32 39 738 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M744 39C745.68 39 747 37.68 747 36C747 34.32 745.68 33 744 33C742.32 33 741 34.32 741 36C741 37.68 742.32 39 744 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M762 39C763.68 39 765 37.68 765 36C765 34.32 763.68 33 762 33C760.32 33 759 34.32 759 36C759 37.68 760.32 39 762 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M786 39C787.68 39 789 37.68 789 36C789 34.32 787.68 33 786 33C784.32 33 783 34.32 783 36C783 37.68 784.32 39 786 39Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M6 48C7.68 48 9 46.68 9 45C9 43.32 7.68 42 6 42C4.32 42 3 43.32 3 45C3 46.68 4.32 48 6 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M24 48C25.68 48 27 46.68 27 45C27 43.32 25.68 42 24 42C22.32 42 21 43.32 21 45C21 46.68 22.32 48 24 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M30 48C31.68 48 33 46.68 33 45C33 43.32 31.68 42 30 42C28.32 42 27 43.32 27 45C27 46.68 28.32 48 30 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M42 48C43.68 48 45 46.68 45 45C45 43.32 43.68 42 42 42C40.32 42 39 43.32 39 45C39 46.68 40.32 48 42 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M78 48C79.68 48 81 46.68 81 45C81 43.32 79.68 42 78 42C76.32 42 75 43.32 75 45C75 46.68 76.32 48 78 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M90 48C91.68 48 93 46.68 93 45C93 43.32 91.68 42 90 42C88.32 42 87 43.32 87 45C87 46.68 88.32 48 90 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M102 48C103.68 48 105 46.68 105 45C105 43.32 103.68 42 102 42C100.32 42 99 43.32 99 45C99 46.68 100.32 48 102 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M138 48C139.68 48 141 46.68 141 45C141 43.32 139.68 42 138 42C136.32 42 135 43.32 135 45C135 46.68 136.32 48 138 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M162 48C163.68 48 165 46.68 165 45C165 43.32 163.68 42 162 42C160.32 42 159 43.32 159 45C159 46.68 160.32 48 162 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M186 48C187.68 48 189 46.68 189 45C189 43.32 187.68 42 186 42C184.32 42 183 43.32 183 45C183 46.68 184.32 48 186 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M204 48C205.68 48 207 46.68 207 45C207 43.32 205.68 42 204 42C202.32 42 201 43.32 201 45C201 46.68 202.32 48 204 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M222 48C223.68 48 225 46.68 225 45C225 43.32 223.68 42 222 42C220.32 42 219 43.32 219 45C219 46.68 220.32 48 222 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M240 48C241.68 48 243 46.68 243 45C243 43.32 241.68 42 240 42C238.32 42 237 43.32 237 45C237 46.68 238.32 48 240 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M246 48C247.68 48 249 46.68 249 45C249 43.32 247.68 42 246 42C244.32 42 243 43.32 243 45C243 46.68 244.32 48 246 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M258 48C259.68 48 261 46.68 261 45C261 43.32 259.68 42 258 42C256.32 42 255 43.32 255 45C255 46.68 256.32 48 258 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M276 48C277.68 48 279 46.68 279 45C279 43.32 277.68 42 276 42C274.32 42 273 43.32 273 45C273 46.68 274.32 48 276 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M300 48C301.68 48 303 46.68 303 45C303 43.32 301.68 42 300 42C298.32 42 297 43.32 297 45C297 46.68 298.32 48 300 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M318 48C319.68 48 321 46.68 321 45C321 43.32 319.68 42 318 42C316.32 42 315 43.32 315 45C315 46.68 316.32 48 318 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M336 48C337.68 48 339 46.68 339 45C339 43.32 337.68 42 336 42C334.32 42 333 43.32 333 45C333 46.68 334.32 48 336 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M342 48C343.68 48 345 46.68 345 45C345 43.32 343.68 42 342 42C340.32 42 339 43.32 339 45C339 46.68 340.32 48 342 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M354 48C355.68 48 357 46.68 357 45C357 43.32 355.68 42 354 42C352.32 42 351 43.32 351 45C351 46.68 352.32 48 354 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M378 48C379.68 48 381 46.68 381 45C381 43.32 379.68 42 378 42C376.32 42 375 43.32 375 45C375 46.68 376.32 48 378 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M402 48C403.68 48 405 46.68 405 45C405 43.32 403.68 42 402 42C400.32 42 399 43.32 399 45C399 46.68 400.32 48 402 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M438 48C439.68 48 441 46.68 441 45C441 43.32 439.68 42 438 42C436.32 42 435 43.32 435 45C435 46.68 436.32 48 438 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M462 48C463.68 48 465 46.68 465 45C465 43.32 463.68 42 462 42C460.32 42 459 43.32 459 45C459 46.68 460.32 48 462 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M474 48C475.68 48 477 46.68 477 45C477 43.32 475.68 42 474 42C472.32 42 471 43.32 471 45C471 46.68 472.32 48 474 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M492 48C493.68 48 495 46.68 495 45C495 43.32 493.68 42 492 42C490.32 42 489 43.32 489 45C489 46.68 490.32 48 492 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M522 48C523.68 48 525 46.68 525 45C525 43.32 523.68 42 522 42C520.32 42 519 43.32 519 45C519 46.68 520.32 48 522 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M528 48C529.68 48 531 46.68 531 45C531 43.32 529.68 42 528 42C526.32 42 525 43.32 525 45C525 46.68 526.32 48 528 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M534 48C535.68 48 537 46.68 537 45C537 43.32 535.68 42 534 42C532.32 42 531 43.32 531 45C531 46.68 532.32 48 534 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M540 48C541.68 48 543 46.68 543 45C543 43.32 541.68 42 540 42C538.32 42 537 43.32 537 45C537 46.68 538.32 48 540 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M546 48C547.68 48 549 46.68 549 45C549 43.32 547.68 42 546 42C544.32 42 543 43.32 543 45C543 46.68 544.32 48 546 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M570 48C571.68 48 573 46.68 573 45C573 43.32 571.68 42 570 42C568.32 42 567 43.32 567 45C567 46.68 568.32 48 570 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M588 48C589.68 48 591 46.68 591 45C591 43.32 589.68 42 588 42C586.32 42 585 43.32 585 45C585 46.68 586.32 48 588 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M594 48C595.68 48 597 46.68 597 45C597 43.32 595.68 42 594 42C592.32 42 591 43.32 591 45C591 46.68 592.32 48 594 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M606 48C607.68 48 609 46.68 609 45C609 43.32 607.68 42 606 42C604.32 42 603 43.32 603 45C603 46.68 604.32 48 606 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M642 48C643.68 48 645 46.68 645 45C645 43.32 643.68 42 642 42C640.32 42 639 43.32 639 45C639 46.68 640.32 48 642 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M654 48C655.68 48 657 46.68 657 45C657 43.32 655.68 42 654 42C652.32 42 651 43.32 651 45C651 46.68 652.32 48 654 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M666 48C667.68 48 669 46.68 669 45C669 43.32 667.68 42 666 42C664.32 42 663 43.32 663 45C663 46.68 664.32 48 666 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M690 48C691.68 48 693 46.68 693 45C693 43.32 691.68 42 690 42C688.32 42 687 43.32 687 45C687 46.68 688.32 48 690 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M726 48C727.68 48 729 46.68 729 45C729 43.32 727.68 42 726 42C724.32 42 723 43.32 723 45C723 46.68 724.32 48 726 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M744 48C745.68 48 747 46.68 747 45C747 43.32 745.68 42 744 42C742.32 42 741 43.32 741 45C741 46.68 742.32 48 744 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M762 48C763.68 48 765 46.68 765 45C765 43.32 763.68 42 762 42C760.32 42 759 43.32 759 45C759 46.68 760.32 48 762 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M768 48C769.68 48 771 46.68 771 45C771 43.32 769.68 42 768 42C766.32 42 765 43.32 765 45C765 46.68 766.32 48 768 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M774 48C775.68 48 777 46.68 777 45C777 43.32 775.68 42 774 42C772.32 42 771 43.32 771 45C771 46.68 772.32 48 774 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M780 48C781.68 48 783 46.68 783 45C783 43.32 781.68 42 780 42C778.32 42 777 43.32 777 45C777 46.68 778.32 48 780 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M786 48C787.68 48 789 46.68 789 45C789 43.32 787.68 42 786 42C784.32 42 783 43.32 783 45C783 46.68 784.32 48 786 48Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M6 57C7.68 57 9 55.68 9 54C9 52.32 7.68 51 6 51C4.32 51 3 52.32 3 54C3 55.68 4.32 57 6 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M30 57C31.68 57 33 55.68 33 54C33 52.32 31.68 51 30 51C28.32 51 27 52.32 27 54C27 55.68 28.32 57 30 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M42 57C43.68 57 45 55.68 45 54C45 52.32 43.68 51 42 51C40.32 51 39 52.32 39 54C39 55.68 40.32 57 42 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M48 57C49.68 57 51 55.68 51 54C51 52.32 49.68 51 48 51C46.32 51 45 52.32 45 54C45 55.68 46.32 57 48 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M54 57C55.68 57 57 55.68 57 54C57 52.32 55.68 51 54 51C52.32 51 51 52.32 51 54C51 55.68 52.32 57 54 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M60 57C61.68 57 63 55.68 63 54C63 52.32 61.68 51 60 51C58.32 51 57 52.32 57 54C57 55.68 58.32 57 60 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M66 57C67.68 57 69 55.68 69 54C69 52.32 67.68 51 66 51C64.32 51 63 52.32 63 54C63 55.68 64.32 57 66 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M90 57C91.68 57 93 55.68 93 54C93 52.32 91.68 51 90 51C88.32 51 87 52.32 87 54C87 55.68 88.32 57 90 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M138 57C139.68 57 141 55.68 141 54C141 52.32 139.68 51 138 51C136.32 51 135 52.32 135 54C135 55.68 136.32 57 138 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M162 57C163.68 57 165 55.68 165 54C165 52.32 163.68 51 162 51C160.32 51 159 52.32 159 54C159 55.68 160.32 57 162 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M186 57C187.68 57 189 55.68 189 54C189 52.32 187.68 51 186 51C184.32 51 183 52.32 183 54C183 55.68 184.32 57 186 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M198 57C199.68 57 201 55.68 201 54C201 52.32 199.68 51 198 51C196.32 51 195 52.32 195 54C195 55.68 196.32 57 198 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M204 57C205.68 57 207 55.68 207 54C207 52.32 205.68 51 204 51C202.32 51 201 52.32 201 54C201 55.68 202.32 57 204 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M210 57C211.68 57 213 55.68 213 54C213 52.32 211.68 51 210 51C208.32 51 207 52.32 207 54C207 55.68 208.32 57 210 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M222 57C223.68 57 225 55.68 225 54C225 52.32 223.68 51 222 51C220.32 51 219 52.32 219 54C219 55.68 220.32 57 222 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M246 57C247.68 57 249 55.68 249 54C249 52.32 247.68 51 246 51C244.32 51 243 52.32 243 54C243 55.68 244.32 57 246 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M258 57C259.68 57 261 55.68 261 54C261 52.32 259.68 51 258 51C256.32 51 255 52.32 255 54C255 55.68 256.32 57 258 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M282 57C283.68 57 285 55.68 285 54C285 52.32 283.68 51 282 51C280.32 51 279 52.32 279 54C279 55.68 280.32 57 282 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M294 57C295.68 57 297 55.68 297 54C297 52.32 295.68 51 294 51C292.32 51 291 52.32 291 54C291 55.68 292.32 57 294 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M300 57C301.68 57 303 55.68 303 54C303 52.32 301.68 51 300 51C298.32 51 297 52.32 297 54C297 55.68 298.32 57 300 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M306 57C307.68 57 309 55.68 309 54C309 52.32 307.68 51 306 51C304.32 51 303 52.32 303 54C303 55.68 304.32 57 306 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M318 57C319.68 57 321 55.68 321 54C321 52.32 319.68 51 318 51C316.32 51 315 52.32 315 54C315 55.68 316.32 57 318 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M342 57C343.68 57 345 55.68 345 54C345 52.32 343.68 51 342 51C340.32 51 339 52.32 339 54C339 55.68 340.32 57 342 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M360 57C361.68 57 363 55.68 363 54C363 52.32 361.68 51 360 51C358.32 51 357 52.32 357 54C357 55.68 358.32 57 360 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M366 57C367.68 57 369 55.68 369 54C369 52.32 367.68 51 366 51C364.32 51 363 52.32 363 54C363 55.68 364.32 57 366 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M372 57C373.68 57 375 55.68 375 54C375 52.32 373.68 51 372 51C370.32 51 369 52.32 369 54C369 55.68 370.32 57 372 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M402 57C403.68 57 405 55.68 405 54C405 52.32 403.68 51 402 51C400.32 51 399 52.32 399 54C399 55.68 400.32 57 402 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M444 57C445.68 57 447 55.68 447 54C447 52.32 445.68 51 444 51C442.32 51 441 52.32 441 54C441 55.68 442.32 57 444 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M450 57C451.68 57 453 55.68 453 54C453 52.32 451.68 51 450 51C448.32 51 447 52.32 447 54C447 55.68 448.32 57 450 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M456 57C457.68 57 459 55.68 459 54C459 52.32 457.68 51 456 51C454.32 51 453 52.32 453 54C453 55.68 454.32 57 456 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M474 57C475.68 57 477 55.68 477 54C477 52.32 475.68 51 474 51C472.32 51 471 52.32 471 54C471 55.68 472.32 57 474 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M498 57C499.68 57 501 55.68 501 54C501 52.32 499.68 51 498 51C496.32 51 495 52.32 495 54C495 55.68 496.32 57 498 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M522 57C523.68 57 525 55.68 525 54C525 52.32 523.68 51 522 51C520.32 51 519 52.32 519 54C519 55.68 520.32 57 522 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M546 57C547.68 57 549 55.68 549 54C549 52.32 547.68 51 546 51C544.32 51 543 52.32 543 54C543 55.68 544.32 57 546 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M570 57C571.68 57 573 55.68 573 54C573 52.32 571.68 51 570 51C568.32 51 567 52.32 567 54C567 55.68 568.32 57 570 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M594 57C595.68 57 597 55.68 597 54C597 52.32 595.68 51 594 51C592.32 51 591 52.32 591 54C591 55.68 592.32 57 594 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M606 57C607.68 57 609 55.68 609 54C609 52.32 607.68 51 606 51C604.32 51 603 52.32 603 54C603 55.68 604.32 57 606 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M612 57C613.68 57 615 55.68 615 54C615 52.32 613.68 51 612 51C610.32 51 609 52.32 609 54C609 55.68 610.32 57 612 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M618 57C619.68 57 621 55.68 621 54C621 52.32 619.68 51 618 51C616.32 51 615 52.32 615 54C615 55.68 616.32 57 618 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M624 57C625.68 57 627 55.68 627 54C627 52.32 625.68 51 624 51C622.32 51 621 52.32 621 54C621 55.68 622.32 57 624 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M630 57C631.68 57 633 55.68 633 54C633 52.32 631.68 51 630 51C628.32 51 627 52.32 627 54C627 55.68 628.32 57 630 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M654 57C655.68 57 657 55.68 657 54C657 52.32 655.68 51 654 51C652.32 51 651 52.32 651 54C651 55.68 652.32 57 654 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M690 57C691.68 57 693 55.68 693 54C693 52.32 691.68 51 690 51C688.32 51 687 52.32 687 54C687 55.68 688.32 57 690 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M696 57C697.68 57 699 55.68 699 54C699 52.32 697.68 51 696 51C694.32 51 693 52.32 693 54C693 55.68 694.32 57 696 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M702 57C703.68 57 705 55.68 705 54C705 52.32 703.68 51 702 51C700.32 51 699 52.32 699 54C699 55.68 700.32 57 702 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M708 57C709.68 57 711 55.68 711 54C711 52.32 709.68 51 708 51C706.32 51 705 52.32 705 54C705 55.68 706.32 57 708 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M714 57C715.68 57 717 55.68 717 54C717 52.32 715.68 51 714 51C712.32 51 711 52.32 711 54C711 55.68 712.32 57 714 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M726 57C727.68 57 729 55.68 729 54C729 52.32 727.68 51 726 51C724.32 51 723 52.32 723 54C723 55.68 724.32 57 726 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M750 57C751.68 57 753 55.68 753 54C753 52.32 751.68 51 750 51C748.32 51 747 52.32 747 54C747 55.68 748.32 57 750 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M762 57C763.68 57 765 55.68 765 54C765 52.32 763.68 51 762 51C760.32 51 759 52.32 759 54C759 55.68 760.32 57 762 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M786 57C787.68 57 789 55.68 789 54C789 52.32 787.68 51 786 51C784.32 51 783 52.32 783 54C783 55.68 784.32 57 786 57Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M216 99C217.68 99 219 97.68 219 96C219 94.32 217.68 93 216 93C214.32 93 213 94.32 213 96C213 97.68 214.32 99 216 99Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M222 99C223.68 99 225 97.68 225 96C225 94.32 223.68 93 222 93C220.32 93 219 94.32 219 96C219 97.68 220.32 99 222 99Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M228 99C229.68 99 231 97.68 231 96C231 94.32 229.68 93 228 93C226.32 93 225 94.32 225 96C225 97.68 226.32 99 228 99Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M246 99C247.68 99 249 97.68 249 96C249 94.32 247.68 93 246 93C244.32 93 243 94.32 243 96C243 97.68 244.32 99 246 99Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M252 99C253.68 99 255 97.68 255 96C255 94.32 253.68 93 252 93C250.32 93 249 94.32 249 96C249 97.68 250.32 99 252 99Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M258 99C259.68 99 261 97.68 261 96C261 94.32 259.68 93 258 93C256.32 93 255 94.32 255 96C255 97.68 256.32 99 258 99Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M264 99C265.68 99 267 97.68 267 96C267 94.32 265.68 93 264 93C262.32 93 261 94.32 261 96C261 97.68 262.32 99 264 99Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M270 99C271.68 99 273 97.68 273 96C273 94.32 271.68 93 270 93C268.32 93 267 94.32 267 96C267 97.68 268.32 99 270 99Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M300 99C301.68 99 303 97.68 303 96C303 94.32 301.68 93 300 93C298.32 93 297 94.32 297 96C297 97.68 298.32 99 300 99Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M306 99C307.68 99 309 97.68 309 96C309 94.32 307.68 93 306 93C304.32 93 303 94.32 303 96C303 97.68 304.32 99 306 99Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M312 99C313.68 99 315 97.68 315 96C315 94.32 313.68 93 312 93C310.32 93 309 94.32 309 96C309 97.68 310.32 99 312 99Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M336 99C337.68 99 339 97.68 339 96C339 94.32 337.68 93 336 93C334.32 93 333 94.32 333 96C333 97.68 334.32 99 336 99Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M342 99C343.68 99 345 97.68 345 96C345 94.32 343.68 93 342 93C340.32 93 339 94.32 339 96C339 97.68 340.32 99 342 99Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M348 99C349.68 99 351 97.68 351 96C351 94.32 349.68 93 348 93C346.32 93 345 94.32 345 96C345 97.68 346.32 99 348 99Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M366 99C367.68 99 369 97.68 369 96C369 94.32 367.68 93 366 93C364.32 93 363 94.32 363 96C363 97.68 364.32 99 366 99Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M390 99C391.68 99 393 97.68 393 96C393 94.32 391.68 93 390 93C388.32 93 387 94.32 387 96C387 97.68 388.32 99 390 99Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M402 99C403.68 99 405 97.68 405 96C405 94.32 403.68 93 402 93C400.32 93 399 94.32 399 96C399 97.68 400.32 99 402 99Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M408 99C409.68 99 411 97.68 411 96C411 94.32 409.68 93 408 93C406.32 93 405 94.32 405 96C405 97.68 406.32 99 408 99Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M414 99C415.68 99 417 97.68 417 96C417 94.32 415.68 93 414 93C412.32 93 411 94.32 411 96C411 97.68 412.32 99 414 99Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M420 99C421.68 99 423 97.68 423 96C423 94.32 421.68 93 420 93C418.32 93 417 94.32 417 96C417 97.68 418.32 99 420 99Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M438 99C439.68 99 441 97.68 441 96C441 94.32 439.68 93 438 93C436.32 93 435 94.32 435 96C435 97.68 436.32 99 438 99Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M462 99C463.68 99 465 97.68 465 96C465 94.32 463.68 93 462 93C460.32 93 459 94.32 459 96C459 97.68 460.32 99 462 99Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M474 99C475.68 99 477 97.68 477 96C477 94.32 475.68 93 474 93C472.32 93 471 94.32 471 96C471 97.68 472.32 99 474 99Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M480 99C481.68 99 483 97.68 483 96C483 94.32 481.68 93 480 93C478.32 93 477 94.32 477 96C477 97.68 478.32 99 480 99Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M486 99C487.68 99 489 97.68 489 96C489 94.32 487.68 93 486 93C484.32 93 483 94.32 483 96C483 97.68 484.32 99 486 99Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M492 99C493.68 99 495 97.68 495 96C495 94.32 493.68 93 492 93C490.32 93 489 94.32 489 96C489 97.68 490.32 99 492 99Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M498 99C499.68 99 501 97.68 501 96C501 94.32 499.68 93 498 93C496.32 93 495 94.32 495 96C495 97.68 496.32 99 498 99Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M510 99C511.68 99 513 97.68 513 96C513 94.32 511.68 93 510 93C508.32 93 507 94.32 507 96C507 97.68 508.32 99 510 99Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M516 99C517.68 99 519 97.68 519 96C519 94.32 517.68 93 516 93C514.32 93 513 94.32 513 96C513 97.68 514.32 99 516 99Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M522 99C523.68 99 525 97.68 525 96C525 94.32 523.68 93 522 93C520.32 93 519 94.32 519 96C519 97.68 520.32 99 522 99Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M534 99C535.68 99 537 97.68 537 96C537 94.32 535.68 93 534 93C532.32 93 531 94.32 531 96C531 97.68 532.32 99 534 99Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M558 99C559.68 99 561 97.68 561 96C561 94.32 559.68 93 558 93C556.32 93 555 94.32 555 96C555 97.68 556.32 99 558 99Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M576 99C577.68 99 579 97.68 579 96C579 94.32 577.68 93 576 93C574.32 93 573 94.32 573 96C573 97.68 574.32 99 576 99Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M582 99C583.68 99 585 97.68 585 96C585 94.32 583.68 93 582 93C580.32 93 579 94.32 579 96C579 97.68 580.32 99 582 99Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M588 99C589.68 99 591 97.68 591 96C591 94.32 589.68 93 588 93C586.32 93 585 94.32 585 96C585 97.68 586.32 99 588 99Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M594 99C595.68 99 597 97.68 597 96C597 94.32 595.68 93 594 93C592.32 93 591 94.32 591 96C591 97.68 592.32 99 594 99Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M210 108C211.68 108 213 106.68 213 105C213 103.32 211.68 102 210 102C208.32 102 207 103.32 207 105C207 106.68 208.32 108 210 108Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M234 108C235.68 108 237 106.68 237 105C237 103.32 235.68 102 234 102C232.32 102 231 103.32 231 105C231 106.68 232.32 108 234 108Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M246 108C247.68 108 249 106.68 249 105C249 103.32 247.68 102 246 102C244.32 102 243 103.32 243 105C243 106.68 244.32 108 246 108Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M294 108C295.68 108 297 106.68 297 105C297 103.32 295.68 102 294 102C292.32 102 291 103.32 291 105C291 106.68 292.32 108 294 108Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M318 108C319.68 108 321 106.68 321 105C321 103.32 319.68 102 318 102C316.32 102 315 103.32 315 105C315 106.68 316.32 108 318 108Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M330 108C331.68 108 333 106.68 333 105C333 103.32 331.68 102 330 102C328.32 102 327 103.32 327 105C327 106.68 328.32 108 330 108Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M354 108C355.68 108 357 106.68 357 105C357 103.32 355.68 102 354 102C352.32 102 351 103.32 351 105C351 106.68 352.32 108 354 108Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M366 108C367.68 108 369 106.68 369 105C369 103.32 367.68 102 366 102C364.32 102 363 103.32 363 105C363 106.68 364.32 108 366 108Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M372 108C373.68 108 375 106.68 375 105C375 103.32 373.68 102 372 102C370.32 102 369 103.32 369 105C369 106.68 370.32 108 372 108Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M384 108C385.68 108 387 106.68 387 105C387 103.32 385.68 102 384 102C382.32 102 381 103.32 381 105C381 106.68 382.32 108 384 108Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M390 108C391.68 108 393 106.68 393 105C393 103.32 391.68 102 390 102C388.32 102 387 103.32 387 105C387 106.68 388.32 108 390 108Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M402 108C403.68 108 405 106.68 405 105C405 103.32 403.68 102 402 102C400.32 102 399 103.32 399 105C399 106.68 400.32 108 402 108Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M426 108C427.68 108 429 106.68 429 105C429 103.32 427.68 102 426 102C424.32 102 423 103.32 423 105C423 106.68 424.32 108 426 108Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M438 108C439.68 108 441 106.68 441 105C441 103.32 439.68 102 438 102C436.32 102 435 103.32 435 105C435 106.68 436.32 108 438 108Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M462 108C463.68 108 465 106.68 465 105C465 103.32 463.68 102 462 102C460.32 102 459 103.32 459 105C459 106.68 460.32 108 462 108Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M486 108C487.68 108 489 106.68 489 105C489 103.32 487.68 102 486 102C484.32 102 483 103.32 483 105C483 106.68 484.32 108 486 108Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M516 108C517.68 108 519 106.68 519 105C519 103.32 517.68 102 516 102C514.32 102 513 103.32 513 105C513 106.68 514.32 108 516 108Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M534 108C535.68 108 537 106.68 537 105C537 103.32 535.68 102 534 102C532.32 102 531 103.32 531 105C531 106.68 532.32 108 534 108Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M540 108C541.68 108 543 106.68 543 105C543 103.32 541.68 102 540 102C538.32 102 537 103.32 537 105C537 106.68 538.32 108 540 108Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M558 108C559.68 108 561 106.68 561 105C561 103.32 559.68 102 558 102C556.32 102 555 103.32 555 105C555 106.68 556.32 108 558 108Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M570 108C571.68 108 573 106.68 573 105C573 103.32 571.68 102 570 102C568.32 102 567 103.32 567 105C567 106.68 568.32 108 570 108Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M210 117C211.68 117 213 115.68 213 114C213 112.32 211.68 111 210 111C208.32 111 207 112.32 207 114C207 115.68 208.32 117 210 117Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M234 117C235.68 117 237 115.68 237 114C237 112.32 235.68 111 234 111C232.32 111 231 112.32 231 114C231 115.68 232.32 117 234 117Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M246 117C247.68 117 249 115.68 249 114C249 112.32 247.68 111 246 111C244.32 111 243 112.32 243 114C243 115.68 244.32 117 246 117Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M252 117C253.68 117 255 115.68 255 114C255 112.32 253.68 111 252 111C250.32 111 249 112.32 249 114C249 115.68 250.32 117 252 117Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M258 117C259.68 117 261 115.68 261 114C261 112.32 259.68 111 258 111C256.32 111 255 112.32 255 114C255 115.68 256.32 117 258 117Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M264 117C265.68 117 267 115.68 267 114C267 112.32 265.68 111 264 111C262.32 111 261 112.32 261 114C261 115.68 262.32 117 264 117Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M294 117C295.68 117 297 115.68 297 114C297 112.32 295.68 111 294 111C292.32 111 291 112.32 291 114C291 115.68 292.32 117 294 117Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M330 117C331.68 117 333 115.68 333 114C333 112.32 331.68 111 330 111C328.32 111 327 112.32 327 114C327 115.68 328.32 117 330 117Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M354 117C355.68 117 357 115.68 357 114C357 112.32 355.68 111 354 111C352.32 111 351 112.32 351 114C351 115.68 352.32 117 354 117Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M366 117C367.68 117 369 115.68 369 114C369 112.32 367.68 111 366 111C364.32 111 363 112.32 363 114C363 115.68 364.32 117 366 117Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M378 117C379.68 117 381 115.68 381 114C381 112.32 379.68 111 378 111C376.32 111 375 112.32 375 114C375 115.68 376.32 117 378 117Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M390 117C391.68 117 393 115.68 393 114C393 112.32 391.68 111 390 111C388.32 111 387 112.32 387 114C387 115.68 388.32 117 390 117Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M402 117C403.68 117 405 115.68 405 114C405 112.32 403.68 111 402 111C400.32 111 399 112.32 399 114C399 115.68 400.32 117 402 117Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M408 117C409.68 117 411 115.68 411 114C411 112.32 409.68 111 408 111C406.32 111 405 112.32 405 114C405 115.68 406.32 117 408 117Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M414 117C415.68 117 417 115.68 417 114C417 112.32 415.68 111 414 111C412.32 111 411 112.32 411 114C411 115.68 412.32 117 414 117Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M420 117C421.68 117 423 115.68 423 114C423 112.32 421.68 111 420 111C418.32 111 417 112.32 417 114C417 115.68 418.32 117 420 117Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M438 117C439.68 117 441 115.68 441 114C441 112.32 439.68 111 438 111C436.32 111 435 112.32 435 114C435 115.68 436.32 117 438 117Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M462 117C463.68 117 465 115.68 465 114C465 112.32 463.68 111 462 111C460.32 111 459 112.32 459 114C459 115.68 460.32 117 462 117Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M486 117C487.68 117 489 115.68 489 114C489 112.32 487.68 111 486 111C484.32 111 483 112.32 483 114C483 115.68 484.32 117 486 117Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M516 117C517.68 117 519 115.68 519 114C519 112.32 517.68 111 516 111C514.32 111 513 112.32 513 114C513 115.68 514.32 117 516 117Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M534 117C535.68 117 537 115.68 537 114C537 112.32 535.68 111 534 111C532.32 111 531 112.32 531 114C531 115.68 532.32 117 534 117Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M546 117C547.68 117 549 115.68 549 114C549 112.32 547.68 111 546 111C544.32 111 543 112.32 543 114C543 115.68 544.32 117 546 117Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M558 117C559.68 117 561 115.68 561 114C561 112.32 559.68 111 558 111C556.32 111 555 112.32 555 114C555 115.68 556.32 117 558 117Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M570 117C571.68 117 573 115.68 573 114C573 112.32 571.68 111 570 111C568.32 111 567 112.32 567 114C567 115.68 568.32 117 570 117Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M582 117C583.68 117 585 115.68 585 114C585 112.32 583.68 111 582 111C580.32 111 579 112.32 579 114C579 115.68 580.32 117 582 117Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M588 117C589.68 117 591 115.68 591 114C591 112.32 589.68 111 588 111C586.32 111 585 112.32 585 114C585 115.68 586.32 117 588 117Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M594 117C595.68 117 597 115.68 597 114C597 112.32 595.68 111 594 111C592.32 111 591 112.32 591 114C591 115.68 592.32 117 594 117Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M210 126C211.68 126 213 124.68 213 123C213 121.32 211.68 120 210 120C208.32 120 207 121.32 207 123C207 124.68 208.32 126 210 126Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M234 126C235.68 126 237 124.68 237 123C237 121.32 235.68 120 234 120C232.32 120 231 121.32 231 123C231 124.68 232.32 126 234 126Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M246 126C247.68 126 249 124.68 249 123C249 121.32 247.68 120 246 120C244.32 120 243 121.32 243 123C243 124.68 244.32 126 246 126Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M294 126C295.68 126 297 124.68 297 123C297 121.32 295.68 120 294 120C292.32 120 291 121.32 291 123C291 124.68 292.32 126 294 126Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M318 126C319.68 126 321 124.68 321 123C321 121.32 319.68 120 318 120C316.32 120 315 121.32 315 123C315 124.68 316.32 126 318 126Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M330 126C331.68 126 333 124.68 333 123C333 121.32 331.68 120 330 120C328.32 120 327 121.32 327 123C327 124.68 328.32 126 330 126Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M354 126C355.68 126 357 124.68 357 123C357 121.32 355.68 120 354 120C352.32 120 351 121.32 351 123C351 124.68 352.32 126 354 126Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M366 126C367.68 126 369 124.68 369 123C369 121.32 367.68 120 366 120C364.32 120 363 121.32 363 123C363 124.68 364.32 126 366 126Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M390 126C391.68 126 393 124.68 393 123C393 121.32 391.68 120 390 120C388.32 120 387 121.32 387 123C387 124.68 388.32 126 390 126Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M402 126C403.68 126 405 124.68 405 123C405 121.32 403.68 120 402 120C400.32 120 399 121.32 399 123C399 124.68 400.32 126 402 126Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M438 126C439.68 126 441 124.68 441 123C441 121.32 439.68 120 438 120C436.32 120 435 121.32 435 123C435 124.68 436.32 126 438 126Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M462 126C463.68 126 465 124.68 465 123C465 121.32 463.68 120 462 120C460.32 120 459 121.32 459 123C459 124.68 460.32 126 462 126Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M486 126C487.68 126 489 124.68 489 123C489 121.32 487.68 120 486 120C484.32 120 483 121.32 483 123C483 124.68 484.32 126 486 126Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M516 126C517.68 126 519 124.68 519 123C519 121.32 517.68 120 516 120C514.32 120 513 121.32 513 123C513 124.68 514.32 126 516 126Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M534 126C535.68 126 537 124.68 537 123C537 121.32 535.68 120 534 120C532.32 120 531 121.32 531 123C531 124.68 532.32 126 534 126Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M552 126C553.68 126 555 124.68 555 123C555 121.32 553.68 120 552 120C550.32 120 549 121.32 549 123C549 124.68 550.32 126 552 126Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M558 126C559.68 126 561 124.68 561 123C561 121.32 559.68 120 558 120C556.32 120 555 121.32 555 123C555 124.68 556.32 126 558 126Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M570 126C571.68 126 573 124.68 573 123C573 121.32 571.68 120 570 120C568.32 120 567 121.32 567 123C567 124.68 568.32 126 570 126Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M594 126C595.68 126 597 124.68 597 123C597 121.32 595.68 120 594 120C592.32 120 591 121.32 591 123C591 124.68 592.32 126 594 126Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M216 135C217.68 135 219 133.68 219 132C219 130.32 217.68 129 216 129C214.32 129 213 130.32 213 132C213 133.68 214.32 135 216 135Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M222 135C223.68 135 225 133.68 225 132C225 130.32 223.68 129 222 129C220.32 129 219 130.32 219 132C219 133.68 220.32 135 222 135Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M228 135C229.68 135 231 133.68 231 132C231 130.32 229.68 129 228 129C226.32 129 225 130.32 225 132C225 133.68 226.32 135 228 135Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M246 135C247.68 135 249 133.68 249 132C249 130.32 247.68 129 246 129C244.32 129 243 130.32 243 132C243 133.68 244.32 135 246 135Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M300 135C301.68 135 303 133.68 303 132C303 130.32 301.68 129 300 129C298.32 129 297 130.32 297 132C297 133.68 298.32 135 300 135Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M306 135C307.68 135 309 133.68 309 132C309 130.32 307.68 129 306 129C304.32 129 303 130.32 303 132C303 133.68 304.32 135 306 135Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M312 135C313.68 135 315 133.68 315 132C315 130.32 313.68 129 312 129C310.32 129 309 130.32 309 132C309 133.68 310.32 135 312 135Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M336 135C337.68 135 339 133.68 339 132C339 130.32 337.68 129 336 129C334.32 129 333 130.32 333 132C333 133.68 334.32 135 336 135Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M342 135C343.68 135 345 133.68 345 132C345 130.32 343.68 129 342 129C340.32 129 339 130.32 339 132C339 133.68 340.32 135 342 135Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M348 135C349.68 135 351 133.68 351 132C351 130.32 349.68 129 348 129C346.32 129 345 130.32 345 132C345 133.68 346.32 135 348 135Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M366 135C367.68 135 369 133.68 369 132C369 130.32 367.68 129 366 129C364.32 129 363 130.32 363 132C363 133.68 364.32 135 366 135Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M390 135C391.68 135 393 133.68 393 132C393 130.32 391.68 129 390 129C388.32 129 387 130.32 387 132C387 133.68 388.32 135 390 135Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M402 135C403.68 135 405 133.68 405 132C405 130.32 403.68 129 402 129C400.32 129 399 130.32 399 132C399 133.68 400.32 135 402 135Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M444 135C445.68 135 447 133.68 447 132C447 130.32 445.68 129 444 129C442.32 129 441 130.32 441 132C441 133.68 442.32 135 444 135Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M450 135C451.68 135 453 133.68 453 132C453 130.32 451.68 129 450 129C448.32 129 447 130.32 447 132C447 133.68 448.32 135 450 135Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M456 135C457.68 135 459 133.68 459 132C459 130.32 457.68 129 456 129C454.32 129 453 130.32 453 132C453 133.68 454.32 135 456 135Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M486 135C487.68 135 489 133.68 489 132C489 130.32 487.68 129 486 129C484.32 129 483 130.32 483 132C483 133.68 484.32 135 486 135Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M510 135C511.68 135 513 133.68 513 132C513 130.32 511.68 129 510 129C508.32 129 507 130.32 507 132C507 133.68 508.32 135 510 135Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M516 135C517.68 135 519 133.68 519 132C519 130.32 517.68 129 516 129C514.32 129 513 130.32 513 132C513 133.68 514.32 135 516 135Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M522 135C523.68 135 525 133.68 525 132C525 130.32 523.68 129 522 129C520.32 129 519 130.32 519 132C519 133.68 520.32 135 522 135Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M534 135C535.68 135 537 133.68 537 132C537 130.32 535.68 129 534 129C532.32 129 531 130.32 531 132C531 133.68 532.32 135 534 135Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M558 135C559.68 135 561 133.68 561 132C561 130.32 559.68 129 558 129C556.32 129 555 130.32 555 132C555 133.68 556.32 135 558 135Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M576 135C577.68 135 579 133.68 579 132C579 130.32 577.68 129 576 129C574.32 129 573 130.32 573 132C573 133.68 574.32 135 576 135Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M582 135C583.68 135 585 133.68 585 132C585 130.32 583.68 129 582 129C580.32 129 579 130.32 579 132C579 133.68 580.32 135 582 135Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+      <path
+        d="M588 135C589.68 135 591 133.68 591 132C591 130.32 589.68 129 588 129C586.32 129 585 130.32 585 132C585 133.68 586.32 135 588 135Z"
+        fill="currentColor"
+        opacity="1"
+        style={{
+          transform: "none",
+          transformOrigin: "50% 50%",
+          transformBox: "fill-box",
+        }}
+      ></path>
+    </svg>
+  );
+}

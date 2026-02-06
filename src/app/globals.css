@@ -1,0 +1,85 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-background: #ffffff;
+  --color-foreground: #171717;
+  --color-yellow: #f5e642;
+  --color-essential-black: #1a1a1a;
+  --color-essential-grey: #c8c8c8;
+  --color-essential-grey-darker: #999999;
+  --color-essential-grey-light: #d7d7d7;
+  --color-essential-grey-bg: #f5f5f5;
+  --color-red: #d71921;
+
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+
+  --text-headline: 2rem;
+  --text-headline--line-height: 1.3em;
+  --text-headline-md: 3rem;
+  --text-headline-md--line-height: 1.3em;
+  --text-title: 1.25rem;
+  --text-title--line-height: 1.5rem;
+}
+
+/* Trim text utility - removes leading/trailing whitespace from text rendering */
+.trim-text {
+  text-box-trim: both;
+  text-box-edge: cap alphabetic;
+}
+
+/* Font families for Nothing's custom fonts */
+.font-ndot {
+  font-family: "Ndot", "Geist Mono", ui-monospace, monospace;
+  letter-spacing: 0.02em;
+}
+
+.font-ntype82 {
+  font-family: "NType82", "Geist", system-ui, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+:root {
+  --default-transition-duration: 0.15s;
+  --default-transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+body {
+  background: var(--color-background);
+  color: var(--color-foreground);
+  font-family: var(--font-sans), system-ui, sans-serif;
+  overflow-x: hidden;
+}
+
+/* Transition utilities matching the original site */
+.transition-opacity {
+  transition-property: opacity;
+  transition-timing-function: var(--default-transition-timing-function);
+  transition-duration: var(--default-transition-duration);
+}
+
+.duration-700 {
+  transition-duration: 0.7s;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 0px;
+}
+
+/* Slow spin animation for creator spinner */
+@keyframes spin-slow {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-spin-slow {
+  animation: spin-slow 8s linear infinite;
+}
